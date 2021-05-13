@@ -13,11 +13,11 @@ Wrapping a new interface around that of an existing class to meet client needs w
 
 # Disadvantages 
 
-code size increase for adding the adaption logic
+code size increase for adding the adapter logic
 
 # Example 
 
-Consider Employee Management application there I am having a function for return employees in JSON format.
-Now if the requirement is of getting data in XML format in that case your existing class is adaptee and you need to build an adapter class that meets client requirement
+Consider Employee Management application there I am having a function for return all employees in JSON format.
+Now if the requirement is of getting data of all employees in XML format in that case your existing class is adaptee and you need to build an adapter class that meets client requirement
 
 https://github.com/VaibhavBhapkar/EmployeeManagement_AdapterDesignPattern
