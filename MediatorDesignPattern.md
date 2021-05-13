@@ -23,7 +23,7 @@ Open/closed principle: Adding new mediators can be done without changing the exi
 Centralized control to mediator object
 
 
-##Example
+## Example
 
 Consider employee communication portal where employees needs to communicate with other employees this problem is solved using mediator design pattern
 In an example if employee is sending some message with the help of mediator we can this to other employees.
