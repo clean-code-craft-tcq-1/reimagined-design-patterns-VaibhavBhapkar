@@ -10,8 +10,14 @@ If we consider laptop as complex object then it builts using many small objects 
 # Advantages
 
 Clear separation between representation and construction of an object
+
 Better control over the construction process
 
+# Disadvantages
+
+The number of lines of code increase at least to double in builder pattern, but the effort pays off in terms of design flexibility and much more readable code.
+
+Requires creating a separate ConcreteBuilder for each different type of Product.
 
 # Example
 
