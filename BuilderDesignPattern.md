@@ -15,6 +15,8 @@ Better control over the construction process
 
 # Example
 
-If We consider the same employee management application where I want to get the report in excel and pdf so we have two different representations to it. A lot of steps are generating the report so we can generalize that to get the report in different representations.
+If We consider the same employee management application where I want to get the report of all employees in excel and pdf format.
+So we have two different representations for this problem (one is excel format report and other is pdf format report).
+A lot of steps are there generating the report so we can generalize that to get the employee report in different representations.
 
 https://github.com/VaibhavBhapkar/EmployeeReport_BuilderDesignPattern
