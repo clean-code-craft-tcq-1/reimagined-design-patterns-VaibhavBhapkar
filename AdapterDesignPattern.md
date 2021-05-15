@@ -6,6 +6,8 @@ The adapter pattern helps us to reuse older functionality to build new features 
 
 We can choose an adapter design pattern when the class needs to be reused which doesn’t have interface that the client expects.
 
+Adapter pattern and decorator pattern looks similar but the difference here is adapater pattern uses different interface while decorator pattern enhances the existing inteface.
+
 # Advantage 
 
 More flexibility in design(Extension of feature is possible by reusing the existing logics)
